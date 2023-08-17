@@ -1,4 +1,4 @@
-<h2 align="left">Hello World 👋! I am Gitesh and I'm an Angular developer.</h2>
+<h2 align="left">Hello World 👋! I am Gitesh Sharma, identify me as an Angular developer.</h2>
 
 ###
 
@@ -49,6 +49,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/gitesh-sharma15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="http://giteshhuniverse.firebaseapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=ko-fi&label=&color=white&logoColor=red&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
   <a href="https://www.instagram.com/hsetig/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
